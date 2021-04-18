@@ -1,7 +1,5 @@
 # Flex Review For Confluence
 
-<img src="https://github.com/Rhodiumcode/flex-review-documentations/blob/master/images/flex_review_overview.gif">
-
 ## 🏁 Getting Started
 
 Check out the [Get Started](https://github.com/Rhodiumcode/flex-review-documentations/wiki/Getting-Started) section in the wiki to get started with Flex Review.
